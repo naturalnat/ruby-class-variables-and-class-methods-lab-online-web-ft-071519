@@ -13,6 +13,6 @@ class Song
 
   def artists(artist)
     @artists = artist
-    return artist.count
+    return artist
   end
 end
