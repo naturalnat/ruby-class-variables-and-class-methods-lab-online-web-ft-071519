@@ -13,4 +13,5 @@ class Song
 
   def artists(artist)
     @artists = artist.count
+  end
 end
