@@ -13,6 +13,5 @@ class Song
 
   def artists(artist)
     @artists = artist
-    return artist
   end
 end
