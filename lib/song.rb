@@ -15,4 +15,7 @@ class Song
     @@genre << genre
   end
 
+  self.count
+  @@count
+end
 end
