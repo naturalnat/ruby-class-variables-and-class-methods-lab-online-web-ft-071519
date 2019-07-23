@@ -27,4 +27,7 @@ class Song
     @@genres.uniq
   end
 
+  def self.count
+  newhash = {}
+
 end
