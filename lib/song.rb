@@ -7,4 +7,9 @@ class Song
     @genre = genre
   end
 
+  def count(count)
+    @count = Song.count
+  end
+
+
 end
